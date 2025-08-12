@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/danudey/public-repository/compare/v0.2.0...v0.2.1) (2025-08-12)
+
+
+### Bug Fixes
+
+* typo in main.go ([#5](https://github.com/danudey/public-repository/issues/5)) ([a8aab48](https://github.com/danudey/public-repository/commit/a8aab4838ed3270df0260aa73d26d5ed42d938ce))
+
 ## [0.2.0](https://github.com/danudey/public-repository/compare/v0.1.0...v0.2.0) (2025-08-12)
 
 
