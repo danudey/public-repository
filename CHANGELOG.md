@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/danudey/public-repository/compare/v0.2.1...v0.2.2) (2025-08-13)
+
+
+### Bug Fixes
+
+* downgrade minimum golang to 1.23 ([#8](https://github.com/danudey/public-repository/issues/8)) ([3a700bc](https://github.com/danudey/public-repository/commit/3a700bcd43f81ed6e177ebb97fe548a4f565560f))
+
 ## [0.2.1](https://github.com/danudey/public-repository/compare/v0.2.0...v0.2.1) (2025-08-12)
 
 
