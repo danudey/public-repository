@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.0](https://github.com/danudey/public-repository/compare/v0.2.2...v0.3.0) (2025-08-25)
+
+
+### Features
+
+* add a new feature ([c2b334b](https://github.com/danudey/public-repository/commit/c2b334b0b7e6d6081ee294c86cbea85b93b32cce))
+* add a new feature ([99a128a](https://github.com/danudey/public-repository/commit/99a128a049358793d8ce0373d732a25de44e51c2))
+
 ## [0.2.2](https://github.com/danudey/public-repository/compare/v0.2.1...v0.2.2) (2025-08-13)
 
 
