@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.3.0](https://github.com/danudey/public-repository/compare/v0.2.2...v0.3.0) (2025-09-12)
+
+
+### Features
+
+* add a new feature ([c2b334b](https://github.com/danudey/public-repository/commit/c2b334b0b7e6d6081ee294c86cbea85b93b32cce))
+* add a new feature ([99a128a](https://github.com/danudey/public-repository/commit/99a128a049358793d8ce0373d732a25de44e51c2))
+* **ebpf:** This isn't a real PR but maybe it'll show some stuff ([#17](https://github.com/danudey/public-repository/issues/17)) ([8cb5364](https://github.com/danudey/public-repository/commit/8cb5364438dc5ea9caf6ee4220c50ff36c082f0b))
+
 ## [2.0.0](https://github.com/danudey/public-repository/compare/v0.2.2...v2.0.0) (2025-09-12)
 
 
