@@ -1,5 +1,25 @@
 # Changelog
 
+## [2.0.0](https://github.com/danudey/public-repository/compare/v0.2.2...v2.0.0) (2025-09-12)
+
+
+### Features
+
+* add a new feature ([c2b334b](https://github.com/danudey/public-repository/commit/c2b334b0b7e6d6081ee294c86cbea85b93b32cce))
+* add a new feature ([99a128a](https://github.com/danudey/public-repository/commit/99a128a049358793d8ce0373d732a25de44e51c2))
+* add a new paradigm to everything ([#10](https://github.com/danudey/public-repository/issues/10)) ([c2dfcdd](https://github.com/danudey/public-repository/commit/c2dfcddf328ab7be38a8b5120afe292e325fecf5))
+* add dark mode support ([#15](https://github.com/danudey/public-repository/issues/15)) ([787913f](https://github.com/danudey/public-repository/commit/787913f3c5944b33bc1a816d8b5f2b44f6395fd1))
+
+
+### Bug Fixes
+
+* typo ([#13](https://github.com/danudey/public-repository/issues/13)) ([2663635](https://github.com/danudey/public-repository/commit/2663635a1683085f2996fe1bff62b5efe6532aed))
+
+
+### Miscellaneous Chores
+
+* release 2.0.0 ([0d48cc6](https://github.com/danudey/public-repository/commit/0d48cc6780fe238b9c95853f7cc8a6cbacd989a0))
+
 ## [0.2.2](https://github.com/danudey/public-repository/compare/v0.2.1...v0.2.2) (2025-08-13)
 
 
